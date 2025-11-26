@@ -5,7 +5,9 @@ A lightweight, non-commercial, open-source Reddit Android client.
 
 This project is a small Android Reddit browsing client designed for:
 Low-performance/older Android devices
+
 Users needing a simplified or accessibility-focused UI
+
 Developers learning how to work responsibly with the Reddit API
 
 Purpose
